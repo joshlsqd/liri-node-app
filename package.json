@@ -1,0 +1,24 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshlsqd/liri-node-app.git"
+  },
+  "author": "Joshua Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshlsqd/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/joshlsqd/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
